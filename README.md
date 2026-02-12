@@ -1,1 +1,19 @@
-Projeto onde simula um celular com acesso ao meu perfil no intagram, x, linkedln e github podendo ser direcionado clicando no link de acesse, feito com html e css
+Projeto Redes Sociais
+
+Projeto front-end simulando interface ou estrutura de redes sociais.
+
+Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+Objetivo
+
+Praticar organização visual, layout e estilização de componentes.
+
+O que aprendi
+
+- Estruturação de layout
+- Estilização com CSS
+- Organização de componentes visuais
+- Responsividade básica
